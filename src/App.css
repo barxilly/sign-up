@@ -1,0 +1,21 @@
+#err1,
+#err2,
+#err3,
+p,
+span {
+    user-select: none !important;
+}
+
+#tocs2 textarea {
+    user-select: none !important;
+    cursor: default !important;
+}
+
+#pfpimg {
+    border-radius: 50% !important;
+    width: 10em !important;
+    height: 10em !important;
+    margin-top: 10px;
+    box-sizing: border-box;
+    aspect-ratio: 1 !important;
+}
